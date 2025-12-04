@@ -1,20 +1,53 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🎵 Rham S. Consigna | Spotify Portfolio
 
-# Run and deploy your AI Studio app
+A personal portfolio website inspired by Spotify's sleek design. Built with React, TypeScript, and Tailwind CSS.
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1k1K8mRYAl_ed_dbw3ndD1STehErSbgFU
+- 🎨 Spotify-inspired dark theme with green accents
+- 📱 Fully responsive (mobile & desktop)
+- 🎵 Music player with real audio playback
+- 🤖 AI-powered search with Gemini integration
+- 📧 Contact form with EmailJS
+- 📄 Downloadable CV/Resume
 
-## Run Locally
+## 🚀 Live Demo
 
-**Prerequisites:**  Node.js
+[View Portfolio](https://rhamconsigna.github.io/SpotifyPortfolio)
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+- **Frontend:** React, TypeScript
+- **Styling:** Tailwind CSS
+- **Build Tool:** Vite
+- **AI:** Google Gemini API
+- **Email:** EmailJS
+
+## 📦 Run Locally
+
+**Prerequisites:** Node.js
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rhamconsigna/SpotifyPortfolio.git
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
 3. Run the app:
-   `npm run dev`
+   ```bash
+   npm run dev
+   ```
+
+## 👤 Author
+
+**Rham S. Consigna**
+- GitHub: [@rhamconsigna](https://github.com/rhamconsigna)
+- LinkedIn: [Rham Consigna](https://linkedin.com/in/rham-consigna-ba405b38b)
+
+---
+
+Made with ❤️ and a lot of ☕
