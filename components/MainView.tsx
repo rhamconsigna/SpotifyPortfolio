@@ -854,11 +854,10 @@ Sent via Rham's Portfolio
                             <input
                                 type="text"
                                 placeholder="What do you want to play?"
-                                className="w-full bg-[#242424] text-white rounded-full py-2.5 pl-10 pr-4 text-sm focus:outline-none focus:bg-white focus:text-black focus:ring-2 focus:ring-white transition-all placeholder-[#b3b3b3] group-focus-within:placeholder-black/70"
+                                className="w-full bg-[#242424] text-white rounded-full py-2.5 pl-10 pr-4 text-base focus:outline-none focus:bg-white focus:text-black focus:ring-2 focus:ring-white transition-all placeholder-[#b3b3b3] group-focus-within:placeholder-black/70"
                                 value={searchQuery}
                                 onChange={(e) => setSearchQuery(e.target.value)}
                                 onKeyDown={handleAiSearch}
-                                autoFocus
                             />
                         </div>
                     )}
